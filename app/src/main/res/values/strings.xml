@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="Pergunta1">De qual linguagem de programação você gosta?</string>
+    <string name="java">Java</string>
+    <string name="c">C</string>
+    <string name="CPP">C++</string>
+    <string name="pergunta2">Qual paradigma de promgramação você prefere?</string>
+    <string name="procedural">Procedural</string>
+    <string name="oo">OO</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="ok">Ok</string>
+</resources>
